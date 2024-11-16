@@ -153,7 +153,8 @@
     return 0;
     }
 ## OUTPUT:
-![Screenshot 2024-09-30 151328](https://github.com/user-attachments/assets/1d5aab38-b400-4e8e-b2cd-e2742901e91d)
+![image](https://github.com/user-attachments/assets/7a2e3cb5-2f03-4774-a709-a9c1b1d1aeab)
+
 
 ## RESULT:
   Thus the SHA-1 hashing technique had been implemented successfully.
